@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smondal/OneDrive%20-%20American%20Bureau%20of%20Shipping/Personal/Academic/IITJ/Trimester3/MLOps/mlruns/323324433262500489/34526a2280074411a482d4c48f9fa16e/artifacts
+end_time: 1718453406656
+entry_point_name: ''
+experiment_id: '323324433262500489'
+lifecycle_stage: active
+run_id: 34526a2280074411a482d4c48f9fa16e
+run_name: Ridge vs Lasso Regression
+run_uuid: 34526a2280074411a482d4c48f9fa16e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718453397552
+status: 3
+tags: []
+user_id: smondal

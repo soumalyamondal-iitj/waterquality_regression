@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smondal/OneDrive%20-%20American%20Bureau%20of%20Shipping/Personal/Academic/IITJ/Trimester3/MLOps/mlruns/323324433262500489/282bbcf63fb5449fae488be7047e1f3b/artifacts
+end_time: 1718454627594
+entry_point_name: ''
+experiment_id: '323324433262500489'
+lifecycle_stage: active
+run_id: 282bbcf63fb5449fae488be7047e1f3b
+run_name: Ridge vs Lasso Regression with Hyperparameter Tuning
+run_uuid: 282bbcf63fb5449fae488be7047e1f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718454618636
+status: 3
+tags: []
+user_id: smondal
